@@ -1,0 +1,61 @@
+# Core dependencies
+datetime
+json
+threading
+os
+sys
+time
+
+# Networking
+requests>=2.25.1
+
+# Logging
+logging
+
+# GUI
+tkinter
+
+# API integration
+groq>=0.1.0
+
+# Data processing and analysis (common in AI projects)
+numpy>=1.21.0
+pandas>=1.3.0
+
+# Machine learning (if applicable)
+scikit-learn>=0.24.2
+tensorflow>=2.5.0
+torch>=1.9.0
+
+# Natural Language Processing (if applicable)
+nltk>=3.6.2
+spacy>=3.1.0
+
+# Image processing (if applicable)
+Pillow>=8.2.0
+opencv-python>=4.5.2
+
+# Web framework (if you have a web component)
+flask>=2.0.1
+
+# Database (if you're using one)
+sqlalchemy>=1.4.20
+
+# Testing
+pytest>=6.2.4
+
+# Code quality and formatting
+black>=21.6b0
+flake8>=3.9.2
+
+# Documentation
+sphinx>=4.0.2
+
+# Dependency management
+pip-tools>=6.2.0
+
+# Environment management
+python-dotenv>=0.18.0
+
+# Project-specific dependencies
+# Add any other libraries used in your project that are not part of the standard library
